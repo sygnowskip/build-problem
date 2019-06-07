@@ -7,7 +7,7 @@ Build status:
 * Rider 2019.x - Fail
 * .NET CLI - Fail
 
-Why?! :)
+Why build is working fine in VS 2019?! :)
 
 ERROR:
 
